@@ -1,5 +1,8 @@
 # reception-bot-demo
 
+## セミナー資料
+https://docs.google.com/presentation/d/e/2PACX-1vSCpZfL84-F1hqN57TRAg6Zi1YycPOsLR4B9KEGv2GiZiV8GpCXArDR4JynUf7OnaSM7ciJpHVQtGcy/pub?start=false&loop=false&delayms=3000
+
 ## ディレクトリ構造
 
 reception-bot-demo/  
